@@ -1,0 +1,138 @@
+{
+    "basics": {
+        "name": "ISHEMA NKERABAHIZI Love",
+        "label": "Software Developer & Data Analyst",
+        "email": "your_email@example.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "love.png",
+        "x_title": "Hello, I'm",
+        "job1": "Software",
+        "job2": "Developer & Analyst",
+        "description": "I'm Love, a passionate software developer and data analyst, dedicated to leveraging technology to solve real-world problems. I specialize in system monitoring, database optimization, and innovative solutions in web and software development.",
+        "summary": "based in Rwanda.",
+        "keywords": "software,developer,data,analyst,python,java,c++,web,postgreSQL,react,network,security,Rwanda,education,startup,AI,cybersecurity",
+        "url": "https://yourportfolio.com/",
+        "location": {
+            "address": "Your Address",
+            "postalCode": "XXXXX",
+            "city": "Kigali",
+            "country": "Rwanda",
+            "countryCode": "RW",
+            "region": "Kigali City"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "ishemalove",
+                "url": "https://www.linkedin.com/in/ishemalove/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "ishemalove",
+                "url": "https://github.com/ishemalove",
+                "x_icon": "fab fa-github"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Code Tech",
+            "position": "Instructor",
+            "website": "http://codetech.com",
+            "startDate": "2022-01-01",
+            "summary": "Teaching children computer basics, programming, and problem-solving skills.",
+            "highlights": ["Introduced students to Python and C++.", "Developed interactive learning materials."]
+        },
+        {
+            "company": "Freelance",
+            "position": "Software Developer & Data Analyst",
+            "website": "https://yourportfolio.com",
+            "startDate": "2021-06-01",
+            "summary": "Worked on system monitoring tools, network performance optimization, and large dataset analysis using PostgreSQL.",
+            "highlights": ["Developed a system monitoring script in Python.", "Optimized database queries for large census datasets."]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Rwanda Coding Academy (RCA)",
+            "area": "Software Engineering",
+            "studyType": "Diploma",
+            "startDate": "2021-01-01",
+            "endDate": "2024-01-01",
+            "gpa": "4.0",
+            "courses": ["Advanced Data Structures", "Cybersecurity & Network Analysis", "Database Optimization"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Best Performing Girl Award",
+            "date": "2023-11-01",
+            "awarder": "Imbuto Foundation & First Lady Jeannette Kagame",
+            "summary": "Recognized as one of the best-performing girls in Rwanda."
+        },
+        {
+            "title": "Spelling Bee Champion",
+            "date": "2019-07-01",
+            "awarder": "Provincial Level",
+            "summary": "Won the provincial-level Spelling Bee competition."
+        }
+    ],
+    "projects": [
+        {
+            "name": "E-Legal",
+            "description": "A legal tech platform that won the ideation phase at school, aimed at making legal resources accessible.",
+            "year": "2024"
+        },
+        {
+            "name": "System Monitoring Script",
+            "description": "A Python-based system monitoring tool that tracks CPU usage, network activity, and security logs.",
+            "year": "2023"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming Languages",
+            "level": "Advanced",
+            "keywords": ["Python", "Java", "C++", "JavaScript"]
+        },
+        {
+            "name": "Database Management",
+            "level": "Advanced",
+            "keywords": ["PostgreSQL", "SQL Optimization", "Data Analysis"]
+        },
+        {
+            "name": "Cybersecurity & Networking",
+            "level": "Intermediate",
+            "keywords": ["Network Security", "System Monitoring", "Penetration Testing"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Kinyarwanda",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent"
+        },
+        {
+            "language": "French",
+            "fluency": "Intermediate"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Tech & Innovation",
+            "keywords": ["AI", "Cybersecurity", "Startups"]
+        },
+        {
+            "name": "Sports",
+            "keywords": ["Basketball", "Football"]
+        },
+        {
+            "name": "Art & Design",
+            "keywords": ["Photography", "Painting"]
+        }
+    ]
+}
